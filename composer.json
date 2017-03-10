@@ -1,0 +1,13 @@
+{
+    "name": "quartarian/jira-trello-poll",
+    "authors": [
+        {
+            "name": "Matthew Bender",
+            "email": "quartarian@gmail.com"
+        }
+    ],
+    "require": {
+        "cdaguerre/php-trello-api": "@dev",
+        "symfony/yaml": "^3.2"
+    }
+}
